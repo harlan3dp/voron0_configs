@@ -1,7 +1,18 @@
 # voron0_configs
-Configuration files for my Formbot Voron 0.2R1
+Configuration files for the Formbot Voron 0.2R1
 
 
-Includes printer.cfg, homing.cfg, gcode macros, and mainsail.cfg.
+WARNING: Do not blindly copy these files. They are configured specifically for my printer, and you WILL have to change some things in order for it to work.
+Refer to hardware.md for the hardware of my printer.
 
-Not recommended as copy/paste, but as a starting baseline for your V0.
+This includes custom macros made by myself, and some may not work or damage your printer.
+
+This config is for:
+Mostly stock hardware + reliability
+
+CURRENT FEATURES:
+USB webcam
+
+UPCOMING FEATURES:
+KAMP
+Accelerometer support
