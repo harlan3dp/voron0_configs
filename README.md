@@ -18,16 +18,25 @@ Accelerometer support
 
 
 HARDWARE:
-Formbot Voron 0.2r1
+
 BTT SKR Pico
+
 BTT Pi V1.2
-Mini Stealthburner
-TZ V6 hotend (300c limit)
-Bed therm: Generic 3950
+
 Creality Nebula camera
+
+TZ V6 hotend (300c limit)
+
+Bed therm: Generic 3950
+
 NO display
+
 No bed levelling probe
+
 Filament runout sensor
+
 NEMA14 A/B motors
+
 NEMA17 Z motor
+
 NEMA14 pancake E motor
