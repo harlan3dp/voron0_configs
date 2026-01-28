@@ -6,18 +6,23 @@ WARNING: Do not blindly copy these files. They are configured specifically for m
 
 This includes custom macros made by myself, and some may not work or damage your printer.
 
-This config is for:
-Mostly stock hardware + reliability
+This config is for: Mostly stock hardware + reliability
 
-CURRENT FEATURES:
+**CURRENT FEATURES:**
+----------------------
+
 USB webcam
 
-UPCOMING FEATURES:
+**UPCOMING FEATURES:**
+---------------------
+
 KAMP
+
 Accelerometer support
 
 
-HARDWARE:
+**HARDWARE:**
+------------
 
 BTT SKR Pico
 
