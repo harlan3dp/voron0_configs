@@ -20,6 +20,11 @@ KAMP
 
 Accelerometer support
 
+**EXPERIMENTAL CONFIGS**
+-----------------------
+
+The experimental folder includes configs that have NOT BEEN FULLY TESTED. Use these at your own risk.
+
 
 **HARDWARE:**
 ------------
