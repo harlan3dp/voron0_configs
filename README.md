@@ -25,6 +25,7 @@ Accelerometer support
 
 The experimental folder includes configs that have NOT BEEN FULLY TESTED. Use these at your own risk.
 
+Experimental currently includes KAMP LINE_PURGE in the START_PRINT macro.
 
 **HARDWARE:**
 ------------
