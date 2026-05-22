@@ -1,8 +1,7 @@
 # voron0_configs
 Configuration files for the Formbot Voron 0.2R1
-**ATTENTION**
 --------------
-This now uses a **Dragon Burner with Orbiter V2** setup. Old configs can be found in old/
+**WARNING**: The main configs are designed around the Dragon Burner with Orbiter V2. Mini Stealthburner configs can be fould in old/, but are not guaranteed to work.
 
 WARNING: Do not blindly copy these files. They are configured specifically for my printer, and you WILL have to change some things in order for it to work.
 
