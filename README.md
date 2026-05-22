@@ -1,6 +1,8 @@
 # voron0_configs
 Configuration files for the Formbot Voron 0.2R1
-
+**ATTENTION**
+--------------
+This now uses a **Dragon Burner with Orbiter V2** setup. Old configs can be found in old/
 
 WARNING: Do not blindly copy these files. They are configured specifically for my printer, and you WILL have to change some things in order for it to work.
 
@@ -10,15 +12,11 @@ This config is for: Mostly stock hardware + reliability
 
 **CURRENT FEATURES:**
 ----------------------
-
-USB webcam
-
-**UPCOMING FEATURES:**
----------------------
-
 KAMP
 
-Accelerometer support
+BTT ADXL345 LIS2DW support
+
+USB webcam
 
 **EXPERIMENTAL CONFIGS**
 -----------------------
@@ -39,8 +37,6 @@ Creality Nebula camera
 TZ V6 hotend (300c limit)
 
 Bed therm: Generic 3950
-
-NO display
 
 No bed levelling probe
 
